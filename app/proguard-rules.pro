@@ -1,0 +1,14 @@
+-dontwarn com.google.android.gms.cast.framework.CastContext
+-dontwarn com.google.android.gms.cast.framework.CastSession
+-dontwarn com.google.android.gms.cast.framework.Session
+-dontwarn com.google.android.gms.cast.framework.SessionManager
+-dontwarn com.google.android.gms.cast.framework.SessionManagerListener
+-dontwarn com.google.android.gms.cast.framework.media.RemoteMediaClient$Callback
+-dontwarn com.google.android.gms.cast.framework.media.RemoteMediaClient
+-dontwarn com.jwplayer.ima.a.d
+-dontwarn com.jwplayer.ima.a.e
+-dontwarn com.jwplayer.ima.dai.b
+-dontwarn com.jwplayer.ima.dai.c
+-dontwarn com.jwplayer.ima.e
+-dontwarn com.jwplayer.ima.j
+-dontwarn com.jwplayer.ima.m
